@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Tierney Sneed, Steve Contorno",
+        "title": "Judge criticizes DeSantis' firing of Democratic prosecutor but declines to reinstate Andrew Warren - CNN",
+        "description": "A federal judge has dismissed the lawsuit brought by a former state attorney in Florida who sued Gov. Ron DeSantis for suspending him last year.",
+        "url": "https://www.cnn.com/2023/01/20/politics/florida-ron-desantis-democratic-prosecutor-lawsuit/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230120112549-desantis-warren-split.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-01-20T20:19:00Z",
+        "content": "A federal judge has dismissed the lawsuit brought by a former state attorney in Florida who sued Gov. Ron DeSantis for suspending him last year.\r\nUS District Judge Robert Hinkle said in his opinion F… [+3026 chars]"
+        },
+        {
+        "source": {
+            "id": null,
+            "name": "Rolling Stone"
+        },
+        "author": "Jim LaPorta",
+        "title": "Navy SEAL Deserter Killed During Intense Ukraine Battle - Rolling Stone",
+        "description": "Daniel Swift, a former American special operator, died while fighting alongside the Ukrainian military",
+        "url": "https://www.rollingstone.com/politics/politics-news/former-navy-seal-killed-ukraine-battle-1234665040/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/01/daniel-swift-Enhanced.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2023-01-20T20:16:12Z",
+        "content": "A former American special operator died early Thursday morning after being wounded days before fighting alongside the Ukrainian military during intense combat in the eastern frontline city of Bakhmut… [+7382 chars]"
+        },
+        {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Rishi Sunak fined for not wearing seatbelt in back of car - BBC",
+        "description": "The PM says he will pay a £100 fine for breaking the law while he filmed a video in a moving car.",
+        "url": "https://www.bbc.com/news/uk-politics-64353054",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F2AD/production/_128352126_sunakblurred.png",
+        "publishedAt": "2023-01-20T19:43:02Z",
+        "content": "Media caption, WATCH: Prime Minister Rishi Sunak was filmed without a seatbelt in a moving car\r\nPrime Minister Rishi Sunak has been fined for not wearing a seatbelt in a moving car while filming a so… [+2548 chars]"
+        },
+        {
+        "source": {
+            "id": null,
+            "name": "The Detroit News"
+        },
+        "author": ", The Detroit News",
+        "title": "Michigan fires co-offensive coordinator Matt Weiss - Detroit News",
+        "description": "The announcement came Friday afternoon from athletic director Warde Manuel after an investigation this week.",
+        "url": "https://www.detroitnews.com/story/sports/college/university-michigan/wolverines/2023/01/20/michigan-parts-ways-with-offensive-coordinator-matt-weiss/69826672007/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/18/PDTN/98efa16c-534a-4a22-a5b6-9e460fddafc9-2021-1205-dg-UM2602.jpg?auto=webp&crop=3723,2095,x0,y189&format=pjpg&width=1200",
+        "publishedAt": "2023-01-20T19:15:43Z",
+        "content": "The University of Michigan fired co-offensive coordinator Matt Weiss Friday amid an investigation into alleged computer crimes inside the football team's offices on campus.\r\nThe announcement of Weiss… [+5656 chars]"
+        },
+        {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Timothy Bella",
+        "title": "All hail, 'Toadzilla': Giant toad in Australia could be world's largest - The Washington Post",
+        "description": "Kylee Gray, a park ranger in Queensland, Australia, stumbled upon a cane toad that's pushing the world record at nearly six pounds.",
+        "url": "https://www.washingtonpost.com/climate-environment/2023/01/20/toadzilla-cane-toad-australia/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-20-2023/t_6a080b42b8f048788163ce7835e127db_name_20230120_toadzilla_reuters_thumb.jpg&w=1440",
+        "publishedAt": "2023-01-20T19:13:00Z",
+        "content": "Comment on this story\r\nAs Kylee Gray got out of her car, she looked to the ground and gasped in disbelief.\r\nThe ranger at Conway National Park in Queensland, Australia, had stopped the vehicle last w… [+3729 chars]"
+        }
+    ]
+}
